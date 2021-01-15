@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
 let version = '1.9.0';
 let iframe = document.getElementById('api-frame');
-let uid = '3df80a8fc04b47078de68545508b0038';
+let uid = 'd6521362b37b48e3a82bce4911409303';
 
 let client = new window.Sketchfab(version, iframe);
 
